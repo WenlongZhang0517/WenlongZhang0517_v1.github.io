@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Zhengzhou University of Light Industry, 2012
-* M.S. in Beijing Institute Of Technology, 2016
+* M.S. in Beijing Institute of Technology, 2016
 * Ph.D (expected)
 
 Work experience
