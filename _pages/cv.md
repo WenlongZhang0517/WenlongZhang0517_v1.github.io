@@ -19,8 +19,8 @@ Work experience
 ======
 * Jul 2018 - Present: Research Intern
   * Multimedia Laboratory at SIAT-CAS & CUHK
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: GAN-based super resolution
+  * Supervisor: Professor Chao Dong, Yu Qiao
 
 Skills
 ======
