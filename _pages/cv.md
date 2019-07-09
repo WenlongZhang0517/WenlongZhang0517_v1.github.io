@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Zhengzhou University of Light Industry, 2012
 * M.S. in Beijing Institute Of Technology, 2016
-* #Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D (expected)
 
 Work experience
 ======
