@@ -28,9 +28,3 @@ Skills
 * Programming Language: Python, C/C++, Matlab, Java
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
