@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao.RankSRGAN: Generative Adversarial Networks with Ranker
+for Image Super-Resolution. ICCV 2019 [**oral**] [`[pdf]`]()
 
 * Hu Weidong, Li yade*, Zhang Wenlong, et al.Spatial Resolution Enhancement of Satellite
 Microwave Radiometer Data with Deep Residual Convolutional Neural Network[J]. Remote
