@@ -39,4 +39,4 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 
 <br>
 
-<a href="http://www.clustrmaps.com/map/Wenlongzhang0724.github.io" title="Visit tracker for Wenlongzhang0724.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ" /></a>
+<a href="https://clustrmaps.com/site/1au09" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ&cl=ffffff"></a>
