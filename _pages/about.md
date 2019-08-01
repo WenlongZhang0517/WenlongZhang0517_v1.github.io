@@ -18,7 +18,7 @@ News
 
 **[July 2019]** 😊 Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution]()  is selected as **oral** presentation in ICCV 2019!
 
-**[July 2019]** :sparkling_heart:	 Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group—— [X-Pixel Group](http://xpixel.group/index) was born!
+**[July 2019]** 💖	 Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group—— [X-Pixel Group](http://xpixel.group/index) was born!
 
 <br>
 
