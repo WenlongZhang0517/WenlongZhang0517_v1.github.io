@@ -39,6 +39,6 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 
 <body>
 <center>
-<a href="https://clustrmaps.com/site/1au09" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=336&t=tt&d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ&co=2d78ad&ct=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1au09'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ&co=2d78ad&ct=ffffff'/></a>
 </center>  
 <body>
