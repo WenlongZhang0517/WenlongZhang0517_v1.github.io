@@ -17,6 +17,7 @@ News
 ======
 
 [July 2019] Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution]()  is selected as **oral** presentation in ICCV 2019!
+
 [July 2019] Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group—— [X-Pixel Group](http://xpixel.group/index) was born!
 
 <br>
@@ -35,5 +36,8 @@ Sensing, 2019 [`[pdf]`](https://www.mdpi.com/2072-4292/11/7/771)
 
 * Hu Weidong, Zhang Wenlong*, et al. A Deconvolution Technology of Microwave Radiometer
 Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](https://www.mdpi.com/2072-4292/10/2/275)
+
+<br>
+<br>
 
 <a href="http://www.clustrmaps.com/map/Wenlongzhang0724.github.io" title="Visit tracker for Wenlongzhang0724.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ" /></a>
