@@ -9,6 +9,18 @@ redirect_from:
 ---
 
 I am Wenlong Zhang and I currently work as a research intern at [X-Pixel Group](http://xpixel.group/index) in Multimedia Laboratory at SIAT-CAS & CUHK. My research interests lie primarily in computer vision and machine learning. My current work involves GAN-based super resolution and generative model, etc. Before that, I have experience working about image restoration on remote sening data. I am trying to solve the problem in real-world and further explore the law of nature behind the problem.   
+<br>
+
+---
+News
+======
+July 2019 ——Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution]()  is selected as **oral** presentation in ICCV 2019!
+
+July 2019 ——Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group——X-Pixel Group was born!
+<br>
+
+---
+
 
 Publication
 ======
