@@ -37,6 +37,4 @@ Sensing, 2019 [`[pdf]`](https://www.mdpi.com/2072-4292/11/7/771)
 * Hu Weidong, Zhang Wenlong*, et al. A Deconvolution Technology of Microwave Radiometer
 Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](https://www.mdpi.com/2072-4292/10/2/275)
 
-<br>
-
-<a href="https://clustrmaps.com/site/1au09" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ&cl=ffffff"></a>
+<a href='https://clustrmaps.com/site/1au09'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ'/></a>
