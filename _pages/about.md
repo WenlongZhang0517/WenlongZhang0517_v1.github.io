@@ -10,3 +10,15 @@ redirect_from:
 
 I am Wenlong Zhang and I currently work as a research intern at [X-Pixel Group](http://xpixel.group/index) in Multimedia Laboratory at SIAT-CAS & CUHK. My research interests lie primarily in computer vision and machine learning. My current work involves GAN-based super resolution and generative model, etc. Before that, I have experience working about image restoration on remote sening data. I am trying to solve the problem in real-world and further explore the law of nature behind the problem.   
 
+Publication
+======
+* Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao.RankSRGAN: Generative Adversarial Networks with Ranker
+for Image Super-Resolution. ICCV 2019 [**oral**] [`[pdf]`]()
+
+* Hu Weidong, Li yade*, Zhang Wenlong, et al.Spatial Resolution Enhancement of Satellite
+Microwave Radiometer Data with Deep Residual Convolutional Neural Network[J]. Remote
+Sensing, 2019 [`[pdf]`](https://www.mdpi.com/2072-4292/11/7/771)
+
+* Hu Weidong, Zhang Wenlong*, et al. A Deconvolution Technology of Microwave Radiometer
+Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](https://www.mdpi.com/2072-4292/10/2/275)
+
