@@ -266,7 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jemoji
+#  - jemoji
   
 gems:
   - jemoji
