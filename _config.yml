@@ -267,6 +267,9 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jemoji
+  
+gems:
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
