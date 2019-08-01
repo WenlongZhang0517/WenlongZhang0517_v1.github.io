@@ -46,5 +46,5 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 </center>  
 <body>
 <center>
-© Wenlong Zhang | Last updated: Aug. 01, 2019
+<font color=#8470FF size=7 face="微软雅黑">© Wenlong Zhang | Last updated: Aug. 01, 2019</font>
 </center>  
