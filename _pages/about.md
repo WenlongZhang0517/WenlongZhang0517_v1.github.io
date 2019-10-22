@@ -16,7 +16,7 @@ I am Wenlong Zhang and I currently work as a research intern at [X-Pixel Group](
 News
 ======
 
-**[July 2019]** 😊 Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution]()  is selected as **oral** presentation in ICCV 2019!
+**[July 2019]** 😊 Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution](https://arxiv.org/abs/1908.06382)  is selected as **oral** presentation in ICCV 2019!
 
 **[July 2019]** 💖	 Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group — [X-Pixel Group](http://xpixel.group/index) was born!
 
@@ -29,6 +29,10 @@ Publication
 ======
 * Wenlong Zhang, Yihao Liu, Chao Dong, Yu Qiao.RankSRGAN: Generative Adversarial Networks with Ranker
 for Image Super-Resolution. ICCV 2019 [**oral**] [`[pdf]`](https://arxiv.org/abs/1908.06382) [`[Project page]`](https://wenlongzhang0724.github.io/Projects/RankSRGAN) [`[Code]`](https://github.com/WenlongZhang0724/RankSRGAN)
+
+* Yade Li, Weidong Hu *, Shi Chen, Wenlong Zhang, Rui Guo, Jingwen He, 
+Leo Ligthart, et al. Spatial Resolution Matching of Microwave Radiometer Data with 
+Convolutional Neural Network[J]. Remote Sensing, 2019 [`[pdf]`](https://www.mdpi.com/2072-4292/11/20/2432/htm)
 
 * Hu Weidong, Li yade*, Zhang Wenlong, et al.Spatial Resolution Enhancement of Satellite
 Microwave Radiometer Data with Deep Residual Convolutional Neural Network[J]. Remote
