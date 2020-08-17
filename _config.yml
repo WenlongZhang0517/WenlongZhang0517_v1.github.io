@@ -12,9 +12,9 @@ title                    : "Welcome to my professional page | Wenlong Zhang"
 title_separator          : "-"
 name                     : &name "Wenlong Zhang"
 description              : &description "personal description"
-url                      : https://WenlongZhang0724.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://WenlongZhang0517.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WenlongZhang0724/WenlongZhang0724.github.io"
+repository               : "WenlongZhang0724/WenlongZhang0517.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WenlongZhang0724"
+  github           : "WenlongZhang0517"
   google_plus      :
   keybase          :
   instagram        :
