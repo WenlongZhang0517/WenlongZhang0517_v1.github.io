@@ -8,17 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenlong Zhang and I currently work as a research intern at [X-Pixel Group](http://xpixel.group/index) in Multimedia Laboratory at SIAT-CAS & CUHK. My research interests lie primarily in computer vision and machine learning. My current work involves GAN-based super resolution and generative model, etc. Before that, I have experience working about image restoration on remote sening data. I am trying to solve the problem in real-world and further explore the law of nature behind the problem.   
+Wenlong is a Ph.D. student in The Hong Kong Polytechnic University, supervised by Prof. [Xiao-ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). He also works closely with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and [Yu Qiao](http://mmlab.siat.ac.cn/team). Previously, He was research assistant in [X-Pixel Group](http://xpixel.group/index) in Multimedia Laboratory at SIAT-CAS. He received the MSc degree from Beijing Institute of Technology University in 2018.
+
+His research interests include GAN and meta-learning (few-shot/metric learning), particularly focusing on image/video restoration tasks, such as super-resolution.
 <br>
 
 ---
 
 News
 ======
+**[Sep. 2020]** I will be a Ph.D. student in The Hong Kong Polytechnic University, supervised by Prof. [Xiao-ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)!
 
-**[July 2019]** 😊 Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution](https://arxiv.org/abs/1908.06382)  is selected as **oral** presentation in ICCV 2019!
+**[July 2019]** Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution](https://arxiv.org/abs/1908.06382)  is selected as **oral** presentation in ICCV 2019!
 
-**[July 2019]** 💖	 Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group — [X-Pixel Group](http://xpixel.group/index) was born!
+**[July 2019]** Our group’s establishment has done in a group meeting at MMlab, CUHK! Our group — [X-Pixel Group](http://xpixel.group/index) was born!
 
 <br>
 
