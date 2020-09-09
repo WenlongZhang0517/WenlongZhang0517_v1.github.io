@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenlong is a Ph.D. student in The Hong Kong Polytechnic University, supervised by Prof. [Xiao-ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). He also works closely with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and [Yu Qiao](http://mmlab.siat.ac.cn/team). Previously, He was research assistant in [X-Pixel Group](http://xpixel.group/index) in Multimedia Laboratory at SIAT-CAS. He received the MSc degree from Beijing Institute of Technology University in 2018.
+Wenlong is a Ph.D. student in Department of Computing, The Hong Kong Polytechnic University, supervised by Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). He also works closely with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and [Yu Qiao](http://mmlab.siat.ac.cn/team). Previously, He was research assistant in [X-Pixel Group](http://xpixel.group/index) in Multimedia Laboratory at SIAT-CAS. He received the MSc degree from Beijing Institute of Technology University in 2018.
 
 His research interests include GAN and meta-learning (few-shot/metric learning), particularly focusing on image/video restoration tasks, such as super-resolution.
 <br>
@@ -17,7 +17,7 @@ His research interests include GAN and meta-learning (few-shot/metric learning),
 
 News
 ======
-**[Sep. 2020]** I will be a Ph.D. student in The Hong Kong Polytechnic University, supervised by Prof. [Xiao-ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)!
+**[Sep. 2020]** I will be a Ph.D. student in The Hong Kong Polytechnic University, supervised by Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)!
 
 **[July 2019]** Our paper [RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution](https://arxiv.org/abs/1908.06382)  is selected as **oral** presentation in ICCV 2019!
 
