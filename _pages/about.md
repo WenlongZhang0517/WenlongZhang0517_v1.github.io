@@ -47,9 +47,9 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 
 Academic Service
 ======
-IEEE Transactions on Geoscience and Remote Sensing
+*IEEE Transactions on Geoscience and Remote Sensing
 
-Journal of Selected Topics in Signal Processing
+*Journal of Selected Topics in Signal Processing
 
 <body>
 <center>
