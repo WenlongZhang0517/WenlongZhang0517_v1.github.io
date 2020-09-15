@@ -47,6 +47,12 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 <br>
 ---
 
+Academic Service
+======
+IEEE Transactions on Geoscience and Remote Sensing
+
+Journal of Selected Topics in Signal Processing
+
 <body>
 <center>
 <a href='https://clustrmaps.com/site/1au09'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=fvH7zH9jgGaRu_Ln0ax1mxLe9YfiD0GRcfq6CbjruhQ&co=2d78ad&ct=ffffff'/></a>
