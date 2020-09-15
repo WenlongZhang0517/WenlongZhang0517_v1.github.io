@@ -13,8 +13,6 @@ Wenlong is a Ph.D. student in Department of Computing, The Hong Kong Polytechnic
 His research interests include GAN and meta-learning (few-shot/metric learning), particularly focusing on image/video restoration tasks, such as super-resolution.
 <br>
 
----
-
 News
 ======
 **[Sep. 2020]** I will be a Ph.D. student in The Hong Kong Polytechnic University, supervised by Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/)!
