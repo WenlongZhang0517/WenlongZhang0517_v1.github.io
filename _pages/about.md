@@ -17,7 +17,7 @@ Publication
 ======
 * **Wenlong Zhang**, Guangyuan Shi, Yihao Liu, Chao Dong, Xiao-Ming Wu. A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds. CVPRW 2022
 
-* Guangyuan Shi*, Jiaxin Chen, **Wenlong Zhang**, Li-Ming Zhan*, Xiao-Ming Wu. Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima. NeurIPS 2021  [`[pdf]`](http://www4.comp.polyu.edu.hk/~csxmwu/papers/NIPS-2021-F2M.pdf) [`[Code]`](https://github.com/moukamisama/F2M)
+* Guangyuan Shi*, Jiaxin Chen, **Wenlong Zhang**, Li-Ming Zhan, Xiao-Ming Wu. Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima. NeurIPS 2021  [`[pdf]`](http://www4.comp.polyu.edu.hk/~csxmwu/papers/NIPS-2021-F2M.pdf) [`[Code]`](https://github.com/moukamisama/F2M)
 
 * **Wenlong Zhang**, Yihao Liu, Chao Dong, Yu Qiao.  RankSRGAN: Super Resolution Generative Adversarial Networks with Learning to Rank. T-PAMI 2021  [`[pdf]`](https://arxiv.org/abs/2107.09427) [`[Project page]`](https://wenlongzhang0724.github.io/Projects/RankSRGAN) [`[Code]`](https://github.com/WenlongZhang0724/RankSRGAN)
 
