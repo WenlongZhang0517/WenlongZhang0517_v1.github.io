@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenlong is a Ph.D. student in Department of Computing, The Hong Kong Polytechnic University, supervised by Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). He is currently studying in [Shanghai AI Lab](https://www.shlab.org.cn/) with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and [Yu Qiao](http://mmlab.siat.ac.cn/team). Prior to that, he is a research assistant in [X-Pixel Group](http://xpixel.group/index) at SIAT-CAS. In 2018, he received the Master degree from Beijing Institute of Technology. His primary research interests are low-level vision problem in real-world.
-
+Wenlong is a Ph.D. student in Department of Computing, The Hong Kong Polytechnic University, supervised by Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). He is currently studying in [Shanghai AI Lab](https://www.shlab.org.cn/) with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and Prof. [Xiao-Ming Wu](http://www4.comp.polyu.edu.hk/~csxmwu/). Prior to that, he is a research assistant in [X-Pixel Group](http://xpixel.group/index) at SIAT-CAS with Prof. [Chao Dong](https://scholar.google.com/citations?hl=zh-CN&user=OSDCB0UAAAAJ) and [Yu Qiao](http://mmlab.siat.ac.cn/team). In 2018, he received the Master degree from Beijing Institute of Technology. His primary research interests are low-level vision problem in real-world.
 
 <br>
 
