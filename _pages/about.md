@@ -25,6 +25,8 @@ Publication
 * **Wenlong Zhang**, Yihao Liu, Chao Dong, Yu Qiao.RankSRGAN: Generative Adversarial Networks with Ranker
 for Image Super-Resolution. ICCV 2019 [**oral**] [`[pdf]`](https://arxiv.org/abs/1908.06382) [`[Project page]`](https://wenlongzhang0724.github.io/Projects/RankSRGAN) [`[Code]`](https://github.com/WenlongZhang0724/RankSRGAN)
 
+* Yang Liu, Weidong Hu, **Wenlong Zhang**, et al. Radar Cross Section Near-Field to Far-Field Prediction for Isotropic-Point Scattering Target Based on Regression Estimation. Sensors 2020 [`[pdf]`](https://www.mdpi.com/1424-8220/20/21/6023)
+
 * Yade Li, Weidong Hu *, Shi Chen, **Wenlong Zhang**, Rui Guo, 
 Leo Ligthart, et al. Spatial Resolution Matching of Microwave Radiometer Data with 
 Convolutional Neural Network[J]. Remote Sensing, 2019 [`[pdf]`](https://www.mdpi.com/2072-4292/11/20/2432/htm)
@@ -42,7 +44,7 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 Professional Activities | Reviewers
 ======
 * [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
-* [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
+* [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 * [Journal of Selected Topics in Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
 
 
