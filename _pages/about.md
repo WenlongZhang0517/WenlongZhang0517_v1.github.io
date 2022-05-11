@@ -16,7 +16,7 @@ Wenlong is a Ph.D. student in Department of Computing, The Hong Kong Polytechnic
 
 Publication
 ======
-* **Wenlong Zhang**, Guangyuan Shi, Yihao Liu, Chao Dong, Xiao-Ming Wu. A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds. CVPRW 2022
+* **Wenlong Zhang**, Guangyuan Shi, Yihao Liu, Chao Dong, Xiao-Ming Wu. A Closer Look at Blind Super-Resolution: Degradation Models, Baselines, and Performance Upper Bounds. CVPRW 2022 [`[pdf]`](https://arxiv.org/pdf/2205.04910.pdf)
 
 * Guangyuan Shi*, Jiaxin Chen, **Wenlong Zhang**, Li-Ming Zhan, Xiao-Ming Wu. Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima. NeurIPS 2021  [`[pdf]`](http://www4.comp.polyu.edu.hk/~csxmwu/papers/NIPS-2021-F2M.pdf) [`[Code]`](https://github.com/moukamisama/F2M)
 
