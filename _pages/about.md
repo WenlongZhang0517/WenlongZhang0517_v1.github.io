@@ -43,12 +43,23 @@ Data Using Convolutional Neural Networks[J]. Remote Sensing, 2018 [`[pdf]`](http
 <br>
 ---
 
-Professional Activities | Reviewers
+Professional Activities 
 ======
+Reviewers
+======
+
+
 * [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 * [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 * [Journal of Selected Topics in Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
 * [CVPR Workshop NTIRE2022](https://data.vision.ee.ethz.ch/cvl/ntire22/)
+
+Teaching Asisstant at HKPolyU
+======
+* COMP6708: ADVANCED BIG DATA COMPUTING (Master Course)
+* COMP2121: E-BUSINESS (Undergraduate Course)
+* COMP5221: Software Project Management (Master Course)
+* COMP5523: Computer Vision and Image Processing (Master Course)
 
 <!-- <body>
 <center>
