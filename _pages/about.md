@@ -48,7 +48,7 @@ Professional Activities | Reviewers
 * [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 * [IEEE Transactions on Circuits and Systems for Video Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 * [Journal of Selected Topics in Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
-
+* [CVPR Workshop NTIRE2022](https://data.vision.ee.ethz.ch/cvl/ntire22/)
 
 <!-- <body>
 <center>
